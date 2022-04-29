@@ -18,4 +18,4 @@ Dans le terminal, entrez la commande "npm install".
 A la fin du chargement, entrez la commande "npm run start".
 
 Vous pouvez directement ouvrir le site en suivant les instructions du README sur :
-https://github.com/Kathleen91/AP3
+https://github.com/Kathleen91/API
